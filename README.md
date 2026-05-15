@@ -1,6 +1,6 @@
 # Python-practice
 
-Python tasks I do in my free time to improve
+Python tasks solved in my free time to improve my python skills
 
 ## Projects
 
