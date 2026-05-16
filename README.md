@@ -4,5 +4,5 @@ Python tasks solved in my free time to improve my python skills
 
 ## Projects
 
-- Odd or Even Checker
-- Character Input Datetime
+01) Odd or Even Checker
+02. Character Input Datetime
